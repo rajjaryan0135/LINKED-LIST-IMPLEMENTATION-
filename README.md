@@ -27,3 +27,4 @@ Moreover, this program serves as a stepping stone for implementing more advanced
 In conclusion, the Singly Linked List implementation developed in this task demonstrates a solid grasp of C programming principles, modular design, and dynamic memory management. It provides a vital foundation for any aspiring developer or computer science student looking to master data structures and low-level logic in real-world software systems.
 
 #OUTPUT: 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/835d3254-2ce5-4b56-918c-2cac496f62a3" />
