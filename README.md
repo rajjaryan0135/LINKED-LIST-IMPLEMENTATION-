@@ -1,4 +1,10 @@
 # LINKED-LIST-IMPLEMENTATION-
+ COMPANY: CODTECH IT SOLUTIONS PVT.LTD
+ *NAME: RAJARYAN 
+ INTERN ID: CT04DZ227
+ DOMAIN: C LANGUAGE
+ DURATION: 4 WEEKS 
+ MENTOR: NEELA SANTOSH KUMAR
 
 In Task 2, the primary objective was to implement a Singly Linked List in the C programming language with support for three fundamental operations: insertion, deletion, and traversal. This task provides practical experience with dynamic data structures and highlights the importance of memory management using pointers — an essential skill in systems programming and low-level software development.
 
