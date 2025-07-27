@@ -25,3 +25,5 @@ This task is significant because it introduces learners to real-world programmin
 Moreover, this program serves as a stepping stone for implementing more advanced structures like doubly linked lists, circular linked lists, and graph representations. It reinforces modular programming, algorithmic thinking, and efficient design — all of which are critical in software engineering roles, particularly in systems and backend development.
 
 In conclusion, the Singly Linked List implementation developed in this task demonstrates a solid grasp of C programming principles, modular design, and dynamic memory management. It provides a vital foundation for any aspiring developer or computer science student looking to master data structures and low-level logic in real-world software systems.
+
+#OUTPUT: 
